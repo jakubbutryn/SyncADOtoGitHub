@@ -1,0 +1,10 @@
+{
+    "RepoList" : [
+    {
+        "AzureRepoName":"JBLabs",
+        "ADOCloneURL":"dev.azure.com/JBPlatform/JBLabs/_git/JBLabs",
+         "GitHubCloneURL":" github.com/jakubbutryn/test.git"
+    }
+   
+    ]
+}
